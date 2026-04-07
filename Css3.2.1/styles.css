@@ -4,6 +4,7 @@ body{
 p{
     font-size:20px ;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height:20px;
 }
 h1{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -21,6 +22,7 @@ h2{
     margin: 10px;        
     border-radius: 8px;
     text-align: center;
+    
 }
 .dalsi {
     width: 500px;           
@@ -42,6 +44,7 @@ h2{
     margin: 10px;        
     border-radius: 40px;
     text-align:center ;
+    display: grid;
     
 }
 .karta{
@@ -52,5 +55,6 @@ h2{
     padding: 20px;    
     margin: 10px;        
     border-radius: 8px;
-    text-align:left ;
+    text-align:center ;
+    display: grid;
 }
